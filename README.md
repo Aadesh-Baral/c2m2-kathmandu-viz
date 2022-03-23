@@ -2,7 +2,7 @@
 Prototype Dashboard for data visuallization of C2M2 Kathmandu(A project aiming to map the secondary impacts of Covid-19 on the tourism sector of Kathmandu valley).
 This dashboard is built using Plotly dash.
 
-Live demo at: 
+Live demo at: https://c2m2-kathmandu.herokuapp.com/
 
 C2M2 Kathmandu Portal: http://tourismincovid.klldev.org/
 # Setup Locally
