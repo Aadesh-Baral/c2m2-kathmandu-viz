@@ -1,0 +1,171 @@
+variable,value,label_en,label_ne,variablegroup,total,percoftotal,index
+i_covid_effect_business,6,Lack of mobility and access to services due to government-imposed lockdown,सरकारद्वारा लगाइएको लकडाउनका कारण गतिशीलताको र सेवाहरूको पहुँचको अभाव,impact,74,0.6607142857142857,1
+i_covid_effect_business,1,Reduced volume of business,व्यापारको मात्रा कम गरियो,impact,72,0.6428571428571429,2
+i_covid_effect_business,9,Lack of adequate financial resources,पर्याप्त वित्तीय स्रोतहरूको अभाव,impact,45,0.4017857142857143,3
+i_covid_effect_business,2,Increased Covid-19 cases in our area,हाम्रो क्षेत्रमा कोभिड-१९ केसहरू बढ्यो ,impact,36,0.32142857142857145,4
+i_covid_effect_business,5,Supply chain disruption,आपूर्ति श्रृंखला अवरोध,impact,20,0.17857142857142858,5
+i_covid_effect_business,10,Other,अन्य,impact,28,0.25,6
+i_econ_stop_business,2,"Yes, temporarily stopped operations","हो, अस्थायी रूपमा सञ्चालनहरू बन्द गरियो",impact,87,0.7767857142857143,7
+i_econ_stop_business,3,"Yes, permanently stopped","हो, स्थायी रूपमा रोकियो",impact,19,0.16964285714285715,8
+i_econ_stop_business,1,"No, operations were always running","होइन, अपरेशनहरू सँधै चलिरहेका थिए",impact,6,0.05357142857142857,9
+i_econ_stop_business_how_lng,5,12+ months,१२+ महिना,impact,44,0.5057471264367817,10
+i_econ_stop_business_how_lng,4,7 to 12 months,७-१२ महिना,impact,25,0.28735632183908044,11
+i_econ_stop_business_how_lng,3,4 to 6 months,४-६ महिना,impact,11,0.12643678160919541,12
+i_econ_stop_business_how_lng,2,1 to 3 months,१-३ महिना,impact,5,0.05747126436781609,13
+i_econ_stop_business_how_lng,1,Less than a month,एक महिना भन्दा कम,impact,2,0.022988505747126436,14
+o_perm_stop_biz_start_new_biz_job,1,Not involved in any sector,कुनै पनि होइन (कुनै पनि क्षेत्रमा संलग्न छैन),impact,15,0.7894736842105263,15
+o_perm_stop_biz_start_new_biz_job,3,Involved in non-tourism sector,गैर पर्यटन क्षेत्रमा संलग्न,impact,4,0.21052631578947367,16
+i_fin_revenue_chng_2020_v_2019,5,Revenue stopped completely,राजस्व पूर्ण रूपमा रोकियो,impact,71,0.6339285714285714,17
+i_fin_revenue_chng_2020_v_2019,4,Revenue became 25% of 2019,राजस्व २०१९ को २५% भयो ,impact,25,0.22321428571428573,18
+i_fin_revenue_chng_2020_v_2019,3,Revenue became 50% of 2019,राजस्व २०१९ को ५०% भयो ,impact,8,0.07142857142857142,19
+i_fin_revenue_chng_2020_v_2019,2,Revenue became 75% of 2019,राजस्व २०१९ को ७५% भयो ,impact,7,0.0625,20
+i_fin_revenue_chng_2020_v_2019,1,Revenue remained the same,राजस्व उही रह्यो,impact,1,0.008928571428571428,21
+i_fin_savings_chng_2020_v_2019,6,The business now has negative savings (i.e. it had to borrow money),ब्यापारको अब नकारात्मक बचत छ (अर्थात् पैसा उधारो लिनु परेको थियो),impact,96,0.8571428571428571,22
+i_fin_savings_chng_2020_v_2019,4,Savings became 25% of 2019,बचत २०१९ को २५% भयो ,impact,11,0.09821428571428571,23
+i_fin_savings_chng_2020_v_2019,3,Savings became 50% of 2019,बचत २०१९ को ५०% भयो ,impact,2,0.017857142857142856,24
+i_fin_savings_chng_2020_v_2019,2,Savings became 75% of 2019,बचत २०१९ को ७५% भयो ,impact,3,0.026785714285714284,25
+i_fin_effect_cost_invstmnt,1,"We could not cover our operating costs (e.g. rent, electricity, etc.)","हामी हाम्रो अपरेटिंग लागतहरू (भाडा, बिजुली, आदि) कभर गर्न सक्दैनौं।",impact,90,0.8035714285714286,26
+i_fin_effect_cost_invstmnt,3,We had made significant investments specifically targeting Visit Nepal 2020,हामीले २०२० सालको लक्षित विशेष लगानी गरेका थियौं,impact,48,0.42857142857142855,27
+i_fin_effect_cost_invstmnt,2,We canceled or postponed our investment plans,हामीले हाम्रो लगानी योजनाहरू रद्द गरेका वा स्थगित गरेका छौं,impact,37,0.33035714285714285,28
+i_fin_effect_cost_invstmnt,4,Other,अन्य,impact,1,0.008928571428571428,29
+i_fin_effect_cost_invstmnt,5,None of the above,माथिको कुनै होईन,impact,3,0.026785714285714284,30
+i_wrkfrc_actn_during_covid,1,Reduced the number of employees,कामदारहरूको संख्या घटाइयो,preparedness,67,0.5982142857142857,31
+i_wrkfrc_actn_during_covid,5,Asked workers to take paid/unpaid leave,कामदारहरूलाई भुक्तानी/विना भुक्तानी बिदा लिन आग्रह गरियो,preparedness,61,0.5446428571428571,32
+i_wrkfrc_actn_during_covid,7,Reduced pay or employee benefits,"कर्मचारी सुविधाहरू/तलबमा (जस्तै भत्ता, बोनस, आदि) घटाइयो",preparedness,33,0.29464285714285715,33
+i_wrkfrc_actn_during_covid,3,Reduced working hours,कार्य घटाइयो,preparedness,25,0.22321428571428573,34
+i_wrkfrc_actn_during_covid,9,Other,अन्य,preparedness,17,0.15178571428571427,35
+i_wrkfrc_actn_during_covid,10,Did not have to take any workforce-related actions,हाम्रो व्यवसायले महामारीको समयमा कुनै पनि कार्यबल सम्बन्धित कार्यहरू गर्नुपरेन,preparedness,8,0.07142857142857142,36
+i_wrkfrc_size_chng_2020_v_2019,5,Workforce size became zero,कार्यबल आकार शून्य भयो ,preparedness,41,0.36607142857142855,37
+i_wrkfrc_size_chng_2020_v_2019,4,Workforce size became 25% of 2019,कार्यबल आकार २०१९ को २५% भयो ,preparedness,32,0.2857142857142857,38
+i_wrkfrc_size_chng_2020_v_2019,3,Workforce size became 50% of 2019,कार्यबल आकार २०१९ को ५०% भयो ,preparedness,15,0.13392857142857142,39
+i_wrkfrc_size_chng_2020_v_2019,2,Workforce size became 75% of 2019,कार्यबल आकार २०१९ को ७५% भयो ,preparedness,12,0.10714285714285714,40
+i_wrkfrc_size_chng_2020_v_2019,1,Workforce size remained the same,कार्यबल आकार उही रह्यो ,preparedness,10,0.08928571428571429,41
+i_wrkfrc_size_chng_2020_v_2019,6,Workforce size increased compared to 2019,कार्यबल आकार २०१९ को तुलनामा बढ्यो,preparedness,2,0.017857142857142856,42
+i_fin_effect_loan_avlblty,4,We faced difficulty in paying back existing loans,हामीले अवस्थित ऋण फिर्ता गर्नमा कठिनाई सामना गर्नुपर्यो ,preparedness,65,0.5803571428571429,43
+i_fin_effect_loan_avlblty,2,We tried but could not take loans,हामीले प्रयास गर्यौं तर ऋण लिन सकेनौं,preparedness,29,0.25892857142857145,44
+i_fin_effect_loan_avlblty,3,We took loans but faced significant difficulties in taking loans,हामीले ऋण लिएका थियौं तर ऋण लिनमा महत्वपूर्ण कठिनाइहरूको सामना गर्यौं,preparedness,20,0.17857142857142858,45
+i_fin_effect_loan_avlblty,1,We took loan(s) quite easily to continue our business,हामीले हाम्रो व्यवसाय जारी राख्नको लागि ऋणहरू सजिलैसँग लिएका थियौं,preparedness,10,0.08928571428571429,46
+i_fin_effect_loan_avlblty,5,Other,अन्य,preparedness,3,0.026785714285714284,47
+i_fin_effect_loan_avlblty,6,None of the above,माथिको कुनै होईन,preparedness,14,0.125,48
+i_fin_effect_asset_lqdty,1,We sold some of our assets,"हामीले हाम्रा सम्पत्तिहरू (सवारी साधनहरू, उपकरणहरू, भवनहरू, जमिन) बेच्यौं।",preparedness,38,0.3392857142857143,49
+i_fin_effect_asset_lqdty,2,We could not find buyers when we wanted to sell our assets,हामी हाम्रो सम्पत्ति बेच्न चाहेको बेला हामीले खरीददारहरू फेला पार्न सकेनौं,preparedness,31,0.2767857142857143,50
+i_fin_effect_asset_lqdty,3,We rented out some of our assets,हामीले हाम्रा सम्पत्तिहरू भाडामा दियौँ,preparedness,12,0.10714285714285714,51
+i_fin_effect_asset_lqdty,4,Other,अन्य,preparedness,6,0.05357142857142857,52
+i_fin_effect_asset_lqdty,5,None of the above,माथिको कुनै होईन,preparedness,36,0.32142857142857145,53
+i_fin_effct_eqty_ownrshp,4,We tried to sell some of our equity but could not find buyers,हामीले हाम्रो ईक्विटी केहि बेच्ने कोशिश गर्यौं तर खरीददारहरू फेला पार्न सकेनौं,preparedness,30,0.26785714285714285,54
+i_fin_effct_eqty_ownrshp,2,We tried to sell our entire business but could not find buyers,हामीले हाम्रो सम्पूर्ण व्यवसाय बेच्न कोसिस गर्यौं तर खरीददारहरू फेला पार्न सकेनौं,preparedness,24,0.21428571428571427,55
+i_fin_effct_eqty_ownrshp,3,We sold some equity (ownership) of our business,हामीले हाम्रो व्यवसायको केही इक्विटी (स्वामित्व) बेचेका छौं,preparedness,10,0.08928571428571429,56
+i_fin_effct_eqty_ownrshp,1,We sold our entire business,हामीले हाम्रो सम्पूर्ण व्यवसाय बेच्यौँ,preparedness,1,0.008928571428571428,57
+i_fin_effct_eqty_ownrshp,5,Other,अन्य,preparedness,7,0.0625,58
+i_fin_effct_eqty_ownrshp,6,None of the above,माथिको कुनै होईन,preparedness,49,0.4375,59
+i_geog_effect_loc_chng,3,We tried to move our business/office but we couldn't,हामीले हाम्रो व्यवसाय / कार्यालय सार्न कोसिस गर्‍यौं तर हामी सकेनौं,preparedness,29,0.25892857142857145,60
+i_geog_effect_loc_chng,2,We closed down some of our offices/branches,हामीले हाम्रा केही कार्यालयहरू / शाखाहरू बन्द गर्‍यौं,preparedness,29,0.25892857142857145,61
+i_geog_effect_loc_chng,1,We moved our business/office to a different location,हामीले हाम्रो व्यवसाय / कार्यालयलाई फरक स्थानमा सार्‍यौं,preparedness,15,0.13392857142857142,62
+i_geog_effect_loc_chng,4,Other,अन्य,preparedness,2,0.017857142857142856,63
+i_geog_effect_loc_chng,5,None of the above,माथिको कुनै होईन,preparedness,45,0.4017857142857143,64
+p_recvry_strategic_actions_internl,1,Reducing production of goods or services compared to 2019,२०१९ को तुलनामा वस्तु वा सेवाहरूको उत्पादन घटाउँदै,preparedness,26,0.23214285714285715,65
+p_recvry_strategic_actions_internl,5,"Diversifying its sales channels – online marketing, sales, delivery, etc.","यसको बिक्री च्यानलहरूको विविधिकरण गर्दै - अनलाइन मार्केटिंग, बिक्री, डेलिभरी, आदि।",preparedness,19,0.16964285714285715,66
+p_recvry_strategic_actions_internl,4,Starting a different business,फरक व्यवसाय सुरू गर्दै,preparedness,10,0.08928571428571429,67
+p_recvry_strategic_actions_internl,3,"Diversifying service offerings to respond to new demands (producing masks, sanitizer, etc.)","नयाँ मागहरूको जवाफ दिन सेवा प्रस्तावहरूको विविधिकरण गर्दै (उत्पादन मुखौटा, सेनिटाइजर, आदि)",preparedness,10,0.08928571428571429,68
+p_recvry_strategic_actions_internl,7,Other,अन्य,preparedness,20,0.17857142857142858,69
+p_recvry_strategic_actions_internl,8,We did not have to take any action,हामीले कुनै पनि कार्य गर्नुपरेन,preparedness,30,0.26785714285714285,70
+p_recvry_strategic_actions_externl,1,Negotiating payment terms with banks and suppliers,बैंक र आपूर्तिकर्तासँग भुक्तानी सर्तहरू सम्झौता गर्दै,preparedness,34,0.30357142857142855,71
+p_recvry_strategic_actions_externl,4,"Negotiating with property owners, house owners, renters, landowners, etc.","सम्पत्ती मालिकहरू, घर मालिकहरू, भाडामा लिने, जग्गामालिकहरू, इत्यादिसँग सम्झौता गर्दै।",preparedness,28,0.25,72
+p_recvry_strategic_actions_externl,5,Partnering or sharing property with other businesses,अन्य व्यवसायहरूसँग साझेदारी गर्दै/सम्पत्ति साझा गर्दै,preparedness,9,0.08035714285714286,73
+p_recvry_strategic_actions_externl,6,Increasing the number of shareholders,शेयरधारकको संख्या बढाउँदै,preparedness,8,0.07142857142857142,74
+p_recvry_strategic_actions_externl,8,Others,अन्य,preparedness,10,0.08928571428571429,75
+p_recvry_strategic_actions_externl,9,We are not taking any action currently,हामी हाल कुनै कार्य लिइरहेका छैनौं (वा त्यस्ता कार्यहरू लिने योजना),preparedness,33,0.29464285714285715,76
+p_hlth_hhs_measures,1,"Placed sanitizers, thermal screening or disinfection at prominent locations","प्रमुख स्थानहरूमा सेनिटाइजर, थर्मल स्क्रीनिंग र कीटाणुशोधन राखियो",preparedness,76,0.6785714285714286,77
+p_hlth_hhs_measures,4,Maintained social distancing at our business premises,हाम्रो व्यवसाय परिसरमा सामाजिक दुरी बनाइयो,preparedness,60,0.5357142857142857,78
+p_hlth_hhs_measures,2,"Trained our employees on HHS (Health, hygiene and sanitation)","हाम्रा कर्मचारीहरुलाई स्वास्थ्य, सरसफाइ र स्वच्छतामा तालिम दिइयो ",preparedness,55,0.49107142857142855,79
+p_hlth_hhs_measures,5,Introduced/Implemented cashless payments,नगद भुक्तानहरू परिचय /कार्यान्वयन गरियो ,preparedness,30,0.26785714285714285,80
+p_hlth_hhs_measures,9,Other,अन्य,preparedness,36,0.32142857142857145,81
+p_hlth_hhs_measures,10,We didn't employ any health and sanitation related measures,हामीले स्वास्थ्य र सरसफाई सम्बन्धी कुनै उपायहरू प्रयोग गरेनौं,preparedness,5,0.044642857142857144,82
+p_hlth_safety_measures,1,"Implemented Covid-19 prevention measures like social distancing, use of sanitizers etc.",कोभिड-१९ प्रसारण र रोकथाम उपायहरूमा कामदारहरूलाई जानकारी दिने,preparedness,72,0.6428571428571429,83
+p_hlth_safety_measures,2,Encouraging workers to take paid/unpaid leave they feel sick,कामदारहरूलाई बिरामी पर्दा उनीहरूलाई घरमा बस्न प्रोत्साहित गर्ने ,preparedness,60,0.5357142857142857,84
+p_hlth_safety_measures,4,Introduced working in shifts and remote working to reduce congestion,भीड कम गर्न सिफ्टमा काम गर्ने ,preparedness,34,0.30357142857142855,85
+p_hlth_safety_measures,9,Providing Covid-19 insurance,कोभिड-१९ बीमा प्रदान गर्ने ,preparedness,25,0.22321428571428573,86
+p_hlth_safety_measures,10,Other,अन्य,preparedness,4,0.03571428571428571,87
+p_hlth_safety_measures,11,We haven't implemented any safety measures for workers currently,हामीले हाल कामदारहरूको लागि कुनै सुरक्षा उपायहरू कार्यान्वयन गरेका छैनौं,preparedness,5,0.044642857142857144,88
+o_expectd_problms_next_6_mnths,4,My business will have difficulties in covering its operating costs,मेरो व्यवसायलाई यसको अपरेटिंग लागतहरू कभर गर्न कठिनाइ हुनेछ,need,65,0.6989247311827957,89
+o_expectd_problms_next_6_mnths,1,My business will have difficulties in paying back existing loans,मेरो व्यवसायलाई अवस्थित ऋण भुक्तान गर्न कठिनाइ हुनेछ,need,62,0.6666666666666666,90
+o_expectd_problms_next_6_mnths,6,My business will have difficulties in getting enough customers required for its survival,मेरो व्यवसायको अस्तित्वको लागि पर्याप्त ग्राहकहरू प्राप्त गर्न कठिनाइ हुनेछ,need,61,0.6559139784946236,91
+o_expectd_problms_next_6_mnths,3,My business will have difficulties in paying its taxes,मेरो व्यवसायलाई यसको करहरू तिर्नमा कठिनाइ हुनेछ,need,52,0.5591397849462365,92
+o_expectd_problms_next_6_mnths,2,My business will have difficulties to acquire additional loans or funds,मेरो व्यवसायलाई थप ऋण वा कोष प्राप्त गर्न कठिनाइ हुनेछ,need,33,0.3548387096774194,93
+o_expectd_problms_next_6_mnths,5,My business will most likely face labor-related issues,मेरो व्यवसायले सम्भवतः श्रम सम्बन्धी मुद्दाहरूको सामना गर्नेछ,need,27,0.2903225806451613,94
+n_rcvry_preferred_loan_pybck_incntv,1,Reduced interest rates on existing loans,अवस्थित ऋणमा ब्याज दरहरू घटाइयो,need,37,0.5967741935483871,95
+n_rcvry_preferred_loan_pybck_incntv,2,Extension of loan periods,ऋण अवधिहरूको विस्तार,need,25,0.4032258064516129,96
+n_rcvry_preferred_fund_aprvl_incntv,2,Long-term subsidized loans,दीर्घकालीन अनुदान ऋण,need,21,0.6363636363636364,97
+n_rcvry_preferred_fund_aprvl_incntv,1,Short-term loans without collateral,जमानत बिना छोटो अवधिका ऋण,need,12,0.36363636363636365,98
+n_rcvry_preferred_tax_asstnc,1,Tax reduction,कर कटौती,need,21,0.40384615384615385,99
+n_rcvry_preferred_tax_asstnc,4,VAT return ,मूल्य अभिवृद्धि कर फिर्ता दिने,need,15,0.28846153846153844,100
+n_rcvry_preferred_tax_asstnc,5,Decrease sales tax and VAT rates,बिक्री कर र VAT दरहरू घटाउने ,need,6,0.11538461538461539,101
+n_rcvry_preferred_tax_asstnc,2,Tax deferral,कर स्थगित,need,6,0.11538461538461539,102
+n_rcvry_preferred_tax_asstnc,3,Exemption of fines on taxes,करमा जरिवाना छुट,need,4,0.07692307692307693,103
+n_rcvry_preferred_tax_asstn_other,2,Subsidy on property rental fees,सम्पत्ति भाडा शुल्कमा सरकारी आर्थिक सहायता,need,45,0.6923076923076923,104
+n_rcvry_preferred_tax_asstn_other,1,"Subsidy on utilities (e.g. electricity, water bills)","उपयोगिताहरुमा सरकारी आर्थिक सहायता (बिजुली, पानी बिल)",need,20,0.3076923076923077,105
+n_rcvry_preferred_labor_asstnc,3,Prioritized provision of Covid-19 vaccination to my workers/employees,कामदारहरू / कर्मचारीहरूलाई कोभिड-१९ खोपको प्राथमिकतामा प्रावधान,need,13,0.48148148148148145,106
+n_rcvry_preferred_labor_asstnc,1,Government provision to not increase minimum wages for the next some time,पछिल्लो समय न्यूनतम ज्याला नबढाउने सरकारी प्रावधान,need,12,0.4444444444444444,107
+n_rcvry_preferred_labor_asstnc,2,Increased access to skilled/semi-skilled workers,दक्ष / अर्ध-कुशल कामदारहरूको पहुँच बढाउने ,need,2,0.07407407407407407,108
+n_rcvry_preferred_outreach_other,1,Knowledge of the needs of source markets,स्रोत बजारको आवश्यकताको ज्ञान (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्),need,23,0.3770491803278688,109
+n_rcvry_preferred_outreach_other,2,Business generation programs and events by governments and other stakeholders,सरकार र अन्य सरोकारवालाहरु द्वारा व्यवसाय उत्पादन कार्यक्रमहरु,need,21,0.3442622950819672,110
+n_rcvry_preferred_outreach_other,3,Digital marketing skills,डिजिटल मार्केटिंग सीप,need,17,0.2786885245901639,111
+n_rcvry_preferred_fin_source,1,Financial assistance from the government,सरकारबाट आर्थिक सहयोग,need,23,0.696969696969697,112
+n_rcvry_preferred_fin_source,3,Borrowing from banks,बैंकहरूबाट उधारो लिने,need,7,0.21212121212121213,113
+n_rcvry_preferred_fin_source,2,Investments from shareholders,शेयरधारकहरु बाट लगानी,need,2,0.06060606060606061,114
+n_rcvry_preferred_fin_source,5,"Consolidations, mergers, and acquisitions","समेकन, मर्ज, र अधिग्रहणहरू",need,1,0.030303030303030304,115
+o_rcvry_biggest_support,1,"Government agencies (Ministry, Department of Tourism, etc.)","सरकारी एजेन्सीहरू (मंत्रालय, पर्यटन विभाग, आदि)",need,40,0.43010752688172044,116
+o_rcvry_biggest_support,7,Friends and family,साथी र परिवार,need,14,0.15053763440860216,117
+o_rcvry_biggest_support,2,Nepal Tourism Board,नेपाल पर्यटन बोर्ड,need,14,0.15053763440860216,118
+o_rcvry_biggest_support,4,Financial Institutions,वित्तीय संस्था,need,13,0.13978494623655913,119
+o_rcvry_biggest_support,5,Property owners,सम्पत्ति मालिकहरू,need,5,0.053763440860215055,120
+o_rcvry_biggest_support,8,Other,अन्य,need,7,0.07526881720430108,121
+n_rcvry_preferred_gov_policy,3,"Establishment of government’s funds like tourism protection, job retention etc.",सरकारको पर्यटन संरक्षण कोष को स्थापना,need,68,0.6071428571428571,122
+n_rcvry_preferred_gov_policy,5,"Provision of financial assistance (e.g. no-collateral loans, subsidized loans, etc.)","वित्तीय सहायताको प्रावधान (उदाहरणका लागि कुनै पनि जमानत ऋण, सरकारी ऋण, आदि)",need,48,0.42857142857142855,123
+n_rcvry_preferred_gov_policy,2,"Regulation of port of entries such as borders, airports","प्रविष्टिहरूको पोर्ट नियमन जस्तै सीमा, एयरपोर्टहरू",need,41,0.36607142857142855,124
+n_rcvry_preferred_gov_policy,1,Establishment of an authentic source of information for Covid-related communications ,"सरकारको कोभिड-१९ सम्बन्धित संचार (उदाहरण: स्वास्थ्य सल्लाहकार, निर्देशन, आदि) को लागि जानकारीको एक प्रामाणिक स्रोतको स्थापना",need,24,0.21428571428571427,125
+n_rcvry_preferred_gov_policy,6,Government provision to categorize safe and unsafe businesses ,"सुरक्षित र असुरक्षित व्यवसायहरूलाई वर्गीकृत गर्न सरकारी प्रावधान (उदाहरण रातो, हरियो, पहेंलो स्टिकर)",need,21,0.1875,126
+n_rcvry_preferred_gov_policy,9,Other,अन्य,need,14,0.125,127
+o_do_u_know_of_gov_schemes,1,I am NOT aware of such government schemes.,म त्यस्ता सरकारी योजनाहरूको बारेमा सचेत छैन।,need,51,0.5483870967741935,128
+o_do_u_know_of_gov_schemes,2,"No, I have not used any government scheme but I know about such schemes.", मैले कुनै सरकारी योजना प्रयोग गरेको छैन तर मलाई त्यस्ता योजनाहरूको बारेमा थाहा छ।,need,34,0.3655913978494624,129
+o_do_u_know_of_gov_schemes,3,"Yes, I have used one or more government schemes.",मैले एक वा बढी सरकारी योजनाहरू प्रयोग गरेको छु।,need,8,0.08602150537634409,130
+o_how_efctv_gov_schemes,2,These schemes are not easy to use,यी योजनाहरू प्रयोग गर्न सजिलो छैन,need,21,0.6176470588235294,131
+o_how_efctv_gov_schemes,3,These schemes are not sufficient,यी योजनाहरू पर्याप्त छैनन्,need,14,0.4117647058823529,132
+o_how_efctv_gov_schemes,1,These schemes are difficult to understand,यी योजनाहरू बुझ्न गाह्रो छ,need,8,0.23529411764705882,133
+o_covid_how_long_it_last,4,More than 24 months (beyond Mar 2023 ),२४ महिना भन्दा बढी (मार्च २०२३ भन्दा उता),outlook,12,0.10714285714285714,134
+o_covid_how_long_it_last,3,13 to 24 months (till Mar 2023),१३-२४ महिना (मार्च २०२३ सम्म) ,outlook,29,0.25892857142857145,135
+o_covid_how_long_it_last,2,6 to 12 months (till Mar 2022),६-१२ महिना (मार्च २०२२ सम्म),outlook,48,0.42857142857142855,136
+o_covid_how_long_it_last,1,Less than 6 months (till Sep 2021),६ महिना भन्दा कम (सेप्टे २०२१ सम्म),outlook,23,0.20535714285714285,137
+o_rcvry_biggest_diffclties,1,Winning the confidence of tourists and guests in the context of Covid-19,कोभिड-१९ को सन्दर्भमा पर्यटक र पाहुनाहरूको विश्वास जित्ने ,outlook,64,0.6881720430107527,138
+o_rcvry_biggest_diffclties,7,Shortage of cash flow,नगद प्रवाहको अभाव,outlook,57,0.6129032258064516,139
+o_rcvry_biggest_diffclties,3,"Ensuring health and safety measures for employees, guests and tourists",पाहुनाहरू र पर्यटकहरूको लागि स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने ,outlook,33,0.3548387096774194,140
+o_rcvry_biggest_diffclties,2,Understanding and meeting the demands of source markets,स्रोत बजारको मागलाई बुझ्ने र भेट्ने (स्रोत बजारहरू विदेशी वा घरेलु ठाउँहरू हुन् जहाँबाट पर्यटकहरू आउँछन्),outlook,27,0.2903225806451613,141
+o_rcvry_biggest_diffclties,5,"Shortage of goods, funds and human resources","सामान आपूर्ति, कोष र मानव संसाधन को कमी",outlook,14,0.15053763440860216,142
+o_rcvry_biggest_diffclties,9,Others,अन्य,outlook,1,0.010752688172043012,143
+o_econ_impact_revenue_chng_21_v_19,1,None (or negligible),कुनै पनि होइन (वा नगण्य),outlook,41,0.44086021505376344,144
+o_econ_impact_revenue_chng_21_v_19,2,Revenue is expected to be 25% of 2019,राजस्व २०१९ को २५% हुने अपेक्षा गरिएको छ,outlook,25,0.26881720430107525,145
+o_econ_impact_revenue_chng_21_v_19,3,Revenue is expected to be 50% of 2019,राजस्व २०१९ को ५०% हुने अपेक्षा गरिएको छ,outlook,10,0.10752688172043011,146
+o_econ_impact_revenue_chng_21_v_19,4,Revenue is expected to be 75% of 2019,राजस्व २०१९ को ७५% हुने अपेक्षा गरिएको छ,outlook,6,0.06451612903225806,147
+o_econ_impact_revenue_chng_21_v_19,5,Revenue is expected to be similar to 2019’s revenue,राजस्व २०१९ को राजस्व जस्तै मिल्दो हुने अपेक्षा गरिएको छ,outlook,5,0.053763440860215055,148
+o_econ_impact_revenue_chng_21_v_19,6,Revenue is expected to be higher than 2019,राजस्व २०१९ को भन्दा बढी हुने अपेक्षा गरिएको छ,outlook,6,0.06451612903225806,149
+o_econ_impact_wrkfrc_chng_21_v_19,1,None (or negligible),कुनै पनि होइन (वा नगण्य),outlook,30,0.3225806451612903,150
+o_econ_impact_wrkfrc_chng_21_v_19,2,Workforce size will be 25% of 2019,कार्यबल आकार २०१९ को २५% हुनेछ,outlook,32,0.34408602150537637,151
+o_econ_impact_wrkfrc_chng_21_v_19,3,Workforce size will be 50% of 2019,कार्यबल आकार २०१९ को ५०% हुनेछ ,outlook,15,0.16129032258064516,152
+o_econ_impact_wrkfrc_chng_21_v_19,4,Workforce size will be 75% of 2019,कार्यबल आकार २०१९ को ७५% हुनेछ ,outlook,6,0.06451612903225806,153
+o_econ_impact_wrkfrc_chng_21_v_19,5,Workforce size will be similar to that of 2019,कार्यबल आकार २०१९ को जस्तै मिल्दो हुनेछ ,outlook,8,0.08602150537634409,154
+o_econ_impact_wrkfrc_chng_21_v_19,6,Workforce size will be greater than that of 2019,कार्यबल आकार २०१९ को भन्दा बढी हुनेछ ,outlook,2,0.021505376344086023,155
+m_biz_years_in_operation,5,11 years or above,११ बर्ष वा माथि,general,33,0.29464285714285715,156
+m_biz_years_in_operation,4,6 to 10 years,६-१० बर्ष,general,27,0.24107142857142858,157
+m_biz_years_in_operation,3,3 to 5 years,३-५ बर्ष,general,30,0.26785714285714285,158
+m_biz_years_in_operation,2,1 to 2 years,१-२ बर्ष,general,21,0.1875,159
+m_biz_years_in_operation,1,Less than a year,एक बर्ष भन्दा कम,general,1,0.008928571428571428,160
+m_biz_type,9,Other,अन्य,general,10,0.08928571428571429,161
+m_biz_type,1,Entertainment,होटल,general,23,0.20535714285714285,162
+m_biz_type,2,Experience selling,यात्रा र यात्रा अपरेटर,general,19,0.16964285714285715,163
+m_biz_type,3,Tours and transport,हस्तशिल्प,general,20,0.17857142857142858,164
+m_biz_type,4,Hospitality,पसल / सामान,general,40,0.35714285714285715,165
+b_n_emplyes_pre_covid,5,More than 100 people,१०० भन्दा बढी ,general,2,0.017857142857142856,166
+b_n_emplyes_pre_covid,4,51 to 100 people,५१-१०० जना,general,3,0.026785714285714284,167
+b_n_emplyes_pre_covid,3,31 to 50 people,३१-५० जना,general,10,0.08928571428571429,168
+b_n_emplyes_pre_covid,2,11 to 30 people,११-३० जना ,general,38,0.3392857142857143,169
+b_n_emplyes_pre_covid,1,Upto 10 people,१० जना सम्म,general,59,0.5267857142857143,170

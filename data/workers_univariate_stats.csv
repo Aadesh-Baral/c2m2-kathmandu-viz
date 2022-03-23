@@ -1,0 +1,123 @@
+variable,value,label_en,label_ne,variablegroup,total,percoftotal,index
+i_lvlhd_domicile_chng_self_fml,1,Yes,पर्यो,impact,143,0.5542635658914729,1
+i_lvlhd_domicile_chng_self_fml,0,No,परेन,impact,115,0.44573643410852715,2
+i_empl_covid_effects,1,Lost job or self employment,रोजगार / स्व-रोजगार गुमाउनुपर्यो,impact,220,0.8527131782945736,3
+i_empl_covid_effects,4,Reduced salary,तलब कटौती भयो,impact,76,0.29457364341085274,4
+i_empl_covid_effects,5,Rotational employment,पालो गरेर/कुरेर काम गर्नुपर्यो ,impact,40,0.15503875968992248,5
+i_empl_covid_effects,3,Took up uninterested job (low self-esteem job),मन नलागेको काम गर्नुपर्यो,impact,38,0.14728682170542637,6
+i_empl_covid_effects,7,Other,अन्य समस्या भोग्नुपर्यो,impact,36,0.13953488372093023,7
+i_empl_covid_effects,8,No effect,केहि भोग्नुपरेन,impact,4,0.015503875968992248,8
+i_empl_jb_prsnt_status,3,"No, currently unemployed but looking for work","अहिले पर्यटन क्षेत्रमा मैले गर्ने प्रकृतिको काम नभएकाले / नपाएकाले काम कुरेर बसिरहेको छु
+ (अहिले कुनै किसिमको रोजगारी नगरी बसेको)",impact,186,0.7209302325581395,9
+i_empl_jb_prsnt_status,1,"Yes, I am working in tourism sector only","छु, म पूर्ण रूपले पर्यटन क्षेत्रमा मात्रै काम गर्दै छु",impact,49,0.18992248062015504,10
+i_empl_jb_prsnt_status,2,"Yes, I am working in tourism sector and also in a non-tourim sector","छु, तर म पर्यटन लगायत अन्य क्षेत्रमा पनि काम गर्दै छु 
+(हाल पर्यटन क्षेत्रको काम कुर्दै गरेका तर अन्य क्षेत्रको काम गर्दै गरेकालाई पनि)",impact,19,0.07364341085271318,11
+i_empl_jb_prsnt_status,4,"No, I have left all tourism-related work","छैन, मैले पर्यटन क्षेत्र छाडिसकेको छु",impact,4,0.015503875968992248,12
+i_econ_incm_chng_self,1,Total income was almost zero,कुल आय लगभग शुन्य (न्यून) भयो,impact,214,0.8294573643410853,13
+i_econ_incm_chng_self,4,Total income decreased by 75%,कुल आय तीन-चौथाई (७५%)ले घट्यो,impact,18,0.06976744186046512,14
+i_econ_incm_chng_self,3,Total income decreased by 50%,कुल आय आधि (५०%)ले घट्यो,impact,16,0.06201550387596899,15
+i_econ_incm_chng_self,2,Total income decreased by 25%,कुल आय एक-चौथाई (२५%)ले घट्यो,impact,7,0.027131782945736434,16
+i_econ_incm_chng_self,5,Total income was almost same as that of 2019,कुल आय लगभग उस्तै रह्यो,impact,2,0.007751937984496124,17
+i_econ_incm_chng_self,6,Total income exceeded that of 2019,कुल आय बढ्यो,impact,1,0.003875968992248062,18
+i_empl_lst_date_full_salary,1,Before COVID-19 lockdown (Before March 2020),कोभिड-१९ लकडाउन भन्दा पहिले (चैत्र २०७६ भन्दा पहिले),impact,212,0.8217054263565892,19
+i_empl_lst_date_full_salary,2,Between March and September 2020,बैशाख देखि असोज २०७७ को बीचमा,impact,17,0.06589147286821706,20
+i_empl_lst_date_full_salary,3,Between October and December 2020,कार्तिक देखि पौष २०७७ को बीचमा,impact,9,0.03488372093023256,21
+i_empl_lst_date_full_salary,4,After December 2021,माघ २०७७ पछि,impact,17,0.06589147286821706,22
+i_empl_lst_date_full_salary,5,No change due to COVID-19,मेरो पूर्ण तलब (आम्दानी)मा कोभिड-१९ले कुनै असर नगरेको,impact,3,0.011627906976744186,23
+p_econ_self_savings_chng_today_v_19,5,Has reduced to almost zero,लगभग शुन्य बाँकी छ,impact,145,0.562015503875969,24
+p_econ_self_savings_chng_today_v_19,4,25% remaining,एक-चौथाई (२५%) बाँकी छ,impact,93,0.36046511627906974,25
+p_econ_self_savings_chng_today_v_19,3,50% remaining,आधि (५०%) बाँकी छ,impact,3,0.011627906976744186,26
+p_econ_self_savings_chng_today_v_19,2,75% remaining,तीन-चौथाई (७५%) बाँकी छ,impact,8,0.031007751937984496,27
+p_econ_self_savings_chng_today_v_19,1,Has stayed the same,लगभग उत्तिकै बाँकी छ,impact,7,0.027131782945736434,28
+p_econ_self_savings_chng_today_v_19,6,Has grown compared to 2019,बचत बढेको छ,impact,2,0.007751937984496124,29
+p_lvlhd_num_depndnt_fml_membrs_post_covid,4,6 people or more,५ जना भन्दा बढी,impact,53,0.2054263565891473,30
+p_lvlhd_num_depndnt_fml_membrs_post_covid,3,3 to 5 people,३-५ जना,impact,142,0.5503875968992248,31
+p_lvlhd_num_depndnt_fml_membrs_post_covid,2,2 people,२ जना,impact,22,0.08527131782945736,32
+p_lvlhd_num_depndnt_fml_membrs_post_covid,1,Only me,१ जना (म मात्रै),impact,41,0.15891472868217055,33
+p_lvlhd_num_depndnt_need_fml_membrs_post_covid,1,Not sufficient for myself,शुन्य (०) जना,impact,167,0.6472868217054264,34
+p_lvlhd_num_depndnt_need_fml_membrs_post_covid,2,1 to 2 people,१-२ जना,impact,51,0.19767441860465115,35
+p_lvlhd_num_depndnt_need_fml_membrs_post_covid,3,3 to 5 people,३-५ जना,impact,31,0.12015503875968993,36
+p_lvlhd_num_depndnt_need_fml_membrs_post_covid,4,6 people or more,५ जना भन्दा बढी,impact,9,0.03488372093023256,37
+p_econ_outstndng_loans_self,2,Yes,छ,impact,240,0.9302325581395349,38
+p_econ_outstndng_loans_self,1,No,छैन,impact,18,0.06976744186046512,39
+i_hlth_covid_infectn_self_fml,1,Yes,छ/थियो,impact,45,0.1744186046511628,40
+i_hlth_covid_infectn_self_fml,0,No,छैन/थिएन,impact,213,0.8255813953488372,41
+i_mental_hlth,1,thought hard about the adverse effects of Covid-19 on livelihood or tried hard to stay away from it,जीविकोपार्जनमा कोभिड-१९ को प्रतिकूल प्रभावहरूको बारेमा अत्यधिक सोचें वा यसबाट टाढा रहन कडा प्रयत्न गरेँ,impact,209,0.810077519379845,42
+i_mental_hlth,6,felt that family or social pressure has increased due to Covid-19,कोभिड-१९  को कारणले गर्दा परिवार वा सामाजिक दबाव बढेको महसुस गरे,impact,183,0.7093023255813954,43
+i_mental_hlth,3,"felt isolated from the surrounding people, activities and environment","मेरो वरिपरि व्यक्ति, गतिविधिहरू र वातावरणबाट टाढा महसुस भयो",impact,168,0.6511627906976745,44
+i_mental_hlth,4,have/had nightmares about the situation that Covid-19 has brought or could bring about,कोभिड-१९  ले ल्याएको वा ल्याउन सक्ने परिस्थितिको बारेमा बढी सोच्ने  वा दुःस्वप्नहरू भयो,impact,139,0.5387596899224806,45
+i_mental_hlth,7,felt animosity or strife among family members,परिवारका सदस्यहरूमा वैरभाव वा कलह महसुस गरे,impact,121,0.4689922480620155,46
+i_mental_hlth,5,"felt guilty about having problems with Covid-19, or blamed self or others for the situation","कोभिड-१९  को कारणले समस्या भएकोमा दोषी महसुस गरेँ, वा आफैलाई वा अन्यलाई यो स्थितिको लागि दोष दिए",impact,98,0.3798449612403101,47
+p_econ_altrnt_incm_src_self_fml_flg,2,Yes,छ,preparedness,48,0.18604651162790697,48
+p_econ_altrnt_incm_src_self_fml_flg,1,No,छैन,preparedness,210,0.813953488372093,49
+i_econ_covid_effects_fin,2,Had to take loan from friends and family,पैसा सापटी लिनुपर्यो (साथीभाइ वा आफन्तीबाट),preparedness,206,0.7984496124031008,50
+i_econ_covid_effects_fin,1,Had to take loan from financial institutions,पैसा सापटी लिनुपर्यो (बैंक वा अन्य वित्तीय संस्थाबाट),preparedness,78,0.3023255813953488,51
+i_econ_covid_effects_assets,1,Sold personal assets,"गहना, टी.भी., फ्रिज, मोटरसाइकल, गाडी जस्ता सामानहरू बेच्नुपर्यो (घराएसी प्रयोजनको सामान)",preparedness,68,0.26356589147286824,52
+i_econ_covid_effects_assets,2,"Sold professional assets, gears, equipments (camera, etc.)","आफ्नो रोजगारको लागि आवश्यक पर्ने सामान जस्तै क्यामेरा, आदि बेच्नुपर्यो",preparedness,25,0.09689922480620156,53
+i_econ_covid_effects_assets,3,Sold land or property,घर-जग्गा बेच्नुपर्यो,preparedness,16,0.06201550387596899,54
+i_econ_covid_effects_services,1,Stopped education of a family member,परिवारमा कसैको शिक्षा रोक्नुपर्यो,preparedness,58,0.2248062015503876,55
+i_econ_covid_effects_services,2,Stopped health services for family members,परिवारमा कसैको स्वास्थ्य सम्बन्धि सेवा रोक्नुपर्यो,preparedness,42,0.16279069767441862,56
+p_hlth_vaccinated_self,2,Yes,छ,preparedness,124,0.4806201550387597,57
+p_hlth_vaccinated_self,1,No,छैन,preparedness,134,0.5193798449612403,58
+p_hlth_received_hhs_training_self,2,Yes,छ,preparedness,12,0.046511627906976744,59
+p_hlth_received_hhs_training_self,1,No,छैन,preparedness,246,0.9534883720930233,60
+i_mental_hlth_therapy,2,Yes,छ,preparedness,32,0.12403100775193798,61
+i_mental_hlth_therapy,1,No,छैन,preparedness,226,0.875968992248062,62
+p_hlth_info_covid_src,2,Social media,सामाजिक संजाल,preparedness,222,0.8604651162790697,63
+p_hlth_info_covid_src,4,Television,टेलिभिजन,preparedness,155,0.6007751937984496,64
+p_hlth_info_covid_src,5,Newspapers,पत्र-पत्रिका,preparedness,114,0.4418604651162791,65
+p_hlth_info_covid_src,1,Family and friends,परिवार जन तथा छिमेकी,preparedness,77,0.29844961240310075,66
+p_hlth_info_covid_src,3,Radio,रेडियो,preparedness,63,0.2441860465116279,67
+p_hlth_info_covid_src,6,Nearby health service provider,नजिकैको स्वास्थ्य सेवा,preparedness,25,0.09689922480620156,68
+n_rcvry_preferred_empl_incentives,2,Employment-related training or retraining,रोजगारीमूलक तालिम वा पुन:प्रशिक्षण,need,142,0.5503875968992248,69
+n_rcvry_preferred_empl_incentives,4,New employment opportunities,नयाँ रोजगारीको अवसर,need,125,0.4844961240310077,70
+n_rcvry_preferred_empl_incentives,3,Opportunity to learn new skills,नयाँ सीप सिक्ने अवसर,need,119,0.46124031007751937,71
+n_rcvry_preferred_fin_incentives,5,Subsidized loans,सहुलियत दरमा ऋण,need,168,0.6511627906976745,72
+n_rcvry_preferred_fin_incentives,9,Provision of social security system,सामाजिक सुरक्षाको व्यवस्था,need,140,0.5426356589147286,73
+n_rcvry_preferred_fin_incentives,10,Grant,अनुदान,need,138,0.5348837209302325,74
+n_rcvry_preferred_fin_incentives,6,Special discounts on interest rate,ब्याज दरमा बिशेष छूट,need,96,0.37209302325581395,75
+n_rcvry_preferred_fin_incentives,7,Tax discount,करमा छूट,need,66,0.2558139534883721,76
+n_rcvry_preferred_fin_incentives,8,Deferral or extension of EMI periods,बैंक आदि लगायतको किस्ता तिर्ने अवधि बढाउने वा केहि समयका लागि किस्ता तिर्न नपर्ने,need,65,0.25193798449612403,77
+o_econ_impact_how_long_months,4,24 months or more,२४ महिना भन्दा बढी,outlook,75,0.29069767441860467,78
+o_econ_impact_how_long_months,3,13 to 24 months,१३ देखि २४ महिना सम्म,outlook,82,0.3178294573643411,79
+o_econ_impact_how_long_months,2,6 to 12 months,६ देखि १२ महिना सम्म,outlook,87,0.3372093023255814,80
+o_econ_impact_how_long_months,1,Less than 6 months,६ महिना भन्दा कम,outlook,14,0.05426356589147287,81
+o_empl_status_to_nrml_how_long_months,5,Can't say,केहि भन्न सकिंदैन,outlook,158,0.6124031007751938,82
+o_empl_status_to_nrml_how_long_months,3,Within 12 months,सुचारु भएको १२ महिना भित्र,outlook,77,0.29844961240310075,83
+o_empl_status_to_nrml_how_long_months,2,Within 3 months,सुचारु भएको ३ महिना भित्र,outlook,15,0.05813953488372093,84
+o_empl_status_to_nrml_how_long_months,1,Immediately,तुरुन्तै,outlook,5,0.01937984496124031,85
+o_empl_status_to_nrml_how_long_months,4,I've left the tourism sector,म पर्यटन क्षेत्रमा अब काम नगर्ने भएको छु,outlook,3,0.011627906976744186,86
+o_impct_to_self_nxt_6_mnths,1,Won't be able to pay house / room rent,घर/कोठा भाडा तिर्न सकिन्न,outlook,208,0.8062015503875969,87
+o_impct_to_self_nxt_6_mnths,7,Won't be able to pay off existing loans,ऋण तथा सापटी तिर्न सकिन्न,outlook,178,0.689922480620155,88
+o_impct_to_self_nxt_6_mnths,5,Won't be able to meet food expenses,खानपिनको लागि आवश्यक खर्च जुटाउन सकिन्न,outlook,167,0.6472868217054264,89
+o_impct_to_self_nxt_6_mnths,3,Won't be able to meet necessary health care expenses,स्वास्थ्य सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न,outlook,165,0.6395348837209303,90
+o_impct_to_self_nxt_6_mnths,4,Won't be able to afford necessary educational services,शैक्षिक सेवाको लागि आवश्यक खर्च जुटाउन सकिन्न,outlook,138,0.5348837209302325,91
+o_impct_to_self_nxt_6_mnths,6,Won't be able to acquire additional loans and borrowings,ऋण तथा सापटी लिन सकिन्न,outlook,132,0.5116279069767442,92
+o_rcvry_chllng_trsm_revival,2,Ensuring HHS Compliance,स्वास्थ्य र सुरक्षा उपायहरू सुनिश्चित गर्ने,outlook,213,0.8255813953488372,93
+o_rcvry_chllng_trsm_revival,4,Decreased number of tourists,पर्यटकको संख्यामा आउने कमि,outlook,181,0.7015503875968992,94
+o_rcvry_chllng_trsm_revival,3,Overcoming financial challenges,आर्थिक चुनौतीहरू,outlook,163,0.6317829457364341,95
+o_rcvry_chllng_trsm_revival,1,Winning tourists' confidence,कोभिड-१९ को सन्दर्भमा पर्यटकको बिश्वाश जित्ने,outlook,153,0.5930232558139535,96
+o_rcvry_chllng_trsm_revival,5,Understanding the demands and needs of the source market correctly,स्रोत बजार (Source market) को मांग र आवश्यकता सही ढङ्गमा बुझ्ने,outlook,74,0.2868217054263566,97
+o_rcvry_chllng_trsm_revival,6,other,अन्य,outlook,8,0.031007751937984496,98
+o_econ_impact_fml_income_chng_21_v_19,5,Will reduce to zero,कुल आय लगभग शुन्य (०%) हुन्छ होला,outlook,156,0.6046511627906976,99
+o_econ_impact_fml_income_chng_21_v_19,4,Will reduce by 75%,कुल आय तीन-चौथाई (७५%)ले घट्छ होला,outlook,43,0.16666666666666666,100
+o_econ_impact_fml_income_chng_21_v_19,3,Will reduce by 50%,कुल आय आधि (५०%)ले घट्छ होला,outlook,18,0.06976744186046512,101
+o_econ_impact_fml_income_chng_21_v_19,2,Will reduce by 25%,कुल आय एक-चौथाई (२५%)ले घट्छ होला,outlook,16,0.06201550387596899,102
+o_econ_impact_fml_income_chng_21_v_19,1,Will stay the same,कुल आय लगभग उत्तिक्कै हुन्छ होला,outlook,20,0.07751937984496124,103
+o_econ_impact_fml_income_chng_21_v_19,6,Will exceed that of 2019,कुल आय बढ्छ होला,outlook,5,0.01937984496124031,104
+m_gender,2,Female,महिला,,25,0.09689922480620156,105
+m_gender,1,Male,पुरुष,,233,0.9031007751937985,106
+m_age,3,41 - 60 years,४१-६० वर्ष,,43,0.16666666666666666,107
+m_age,2,21 - 40 years,२१-४० बर्ष,,209,0.810077519379845,108
+m_age,1,Less than 20 years,०-२० बर्ष,,6,0.023255813953488372,109
+m_edu_levl,6,Master's degree or higher,स्नातकोत्तर वा माथि,,27,0.10465116279069768,110
+m_edu_levl,5,Bachelor's degree or equivalent,स्नातक,,60,0.23255813953488372,111
+m_edu_levl,4,10+2 or equivalent,+२' वा सो सरह,,86,0.3333333333333333,112
+m_edu_levl,3,SLC or equivalent,एस्.एल.सी.,,60,0.23255813953488372,113
+m_edu_levl,2,Can read and/or write,अक्षर चिन्ने,,24,0.09302325581395349,114
+m_edu_levl,1,No education (illiterate),निरक्षर,,1,0.003875968992248062,115
+m_years_of_experience,5,15 years or more,१५ वर्ष भन्दा बढी,,55,0.2131782945736434,116
+m_years_of_experience,4,11 to 15 years,११-१५ बर्ष,,49,0.18992248062015504,117
+m_years_of_experience,3,6 to 10 years,६-१० वर्ष,,94,0.3643410852713178,118
+m_years_of_experience,2,3 to 5 years,३-५ वर्ष,,44,0.17054263565891473,119
+m_years_of_experience,1,0 to 2 years,०-२ वर्ष,,16,0.06201550387596899,120
