@@ -8,25 +8,37 @@ C2M2 Kathmandu Portal: http://tourismincovid.klldev.org/
 # Setup Locally
 Clone the project
 
-    `git clone https://github.com/AadeshBaral/c2m2-kathmandu-viz.git`
+```bash
+    git clone https://github.com/AadeshBaral/c2m2-kathmandu-viz.git
+```
 
 Go to the project directory
 
-    `cd c2m2-kathmandu-viz`
+```bash
+    cd c2m2-kathmandu-viz
+```
 
 Create virtual environment
 
-    `python3 -m venv ./venv`
+```bash
+    python3 -m venv ./venv
+```
 
 Activate environment
 
-    `source venv/bin/activate`
+```bash
+    source venv/bin/activate
+```
 
 Install dependencies
 
-    `pip install -r requirements.txt`
+```bash
+    pip install -r requirements.txt
+```
 
 Run Application
 
-`python app.py`
+```bash
+    python app.py
+```
     
